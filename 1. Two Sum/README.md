@@ -8,6 +8,13 @@
 
 直接用嵌套for循环遍历数组，判断两个数的和是否为target。
 
-Your runtime beats 8.09 % of cpp submissions.
+Submission Details：
+
+https://leetcode.com/submissions/detail/102633130/
+
+Runtime: 206 ms
+
+Your runtime beats 11.76 % of cpp submissions.
+
 
 
