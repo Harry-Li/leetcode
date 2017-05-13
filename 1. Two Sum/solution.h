@@ -1,7 +1,8 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+class Solution {
+public:
 vector<int> twoSum(vector<int> &numbers, int target)
 {
     //Key is the number and value is its index in the vector.
@@ -23,6 +24,7 @@ vector<int> twoSum(vector<int> &numbers, int target)
 		hash[numbers[i]] = i;
 	}
 	return result;
+}
 }
 /*
 class Solution {
