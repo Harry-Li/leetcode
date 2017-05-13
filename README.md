@@ -5,9 +5,12 @@
 |---|--------|--------|--------|----------|
 |1|[Two Sum][1]|[1. Two Sum/solution.h][1s]|2017/5/11|Easy|
 |2|[Add Two Numbers][2]|[2. Add Two Numbers/solution.h][2s]|2017/5/13|Medium|
+|3|[Longest Substring Without Repeating Characters][3]|[3. Longest Substring Without Repeating Characters/solution.h][3s]|2017/5/13|Medium|
 
 
 [1]:https://leetcode.com/problems/two-sum/#/description
 [1s]:https://github.com/Harry-Li/leetcode/blob/master/1.%20Two%20Sum/solution.h
 [2]:https://leetcode.com/problems/add-two-numbers/#/description
 [2s]:https://github.com/Harry-Li/leetcode/blob/master/2.%20Add%20Two%20Numbers/solution.h
+[3]:https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description
+[3s]:https://github.com/Harry-Li/leetcode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.h
