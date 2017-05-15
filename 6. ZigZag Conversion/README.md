@@ -76,3 +76,17 @@ string convert(string s, int nRows) {
 		return result;
 	}
 ```
+另一种方法：<br>
+对(nRows-1)取余，可以区分行数;<br>
+对(nRows-1)做除，可以区分当前是上升还是下降（偶数上升，奇数下降）。
+```c
+    string convert(string s, int nRows) {
+        if (s.empty() || nRows < 2) return s;
+        std::vector<string> ret(nRows);
+        for (size_t i=0; i<s.size(); ++i) {
+            int m = i % (nRows-1), n = i / (nRows-1);
+            (n & 0x1 ? ret[nRows-m-1] : ret[m]) += s[i];
+        }
+        return std::accumulate(ret.cbegin(), ret.cend(), string());
+    }
+```
