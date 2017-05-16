@@ -10,6 +10,7 @@
 |5|[Longest Palindromic Substring][5]|[5. Longest Palindromic Substring/solution.h][5s]|2017/5/14|Medium|
 |6|[ZigZag Conversion][6]|[6. ZigZag Conversion/solution.h][6s]|2017/5/15|Medium|
 |7|[Reverse Integer][7]|[7. Reverse Integer/solution.h][7s]|2017/5/15|Easy|
+|8|[String to Integer (atoi)][8]|[8. String to Integer (atoi)/solution.h][8s]|2017/5/16|Medium|
 
 [1]:https://leetcode.com/problems/two-sum/#/description
 [1s]:https://github.com/Harry-Li/leetcode/blob/master/1.%20Two%20Sum/solution.h
@@ -25,3 +26,5 @@
 [6s]:https://github.com/Harry-Li/leetcode/blob/master/6.%20ZigZag%20Conversion/solution.h
 [7]:https://leetcode.com/problems/reverse-integer/
 [7s]:https://github.com/Harry-Li/leetcode/blob/master/7.%20Reverse%20Integer/solution.h
+[8]:https://leetcode.com/problems/string-to-integer-atoi/#/description
+[8s]:https://github.com/Harry-Li/leetcode/blob/master/8.%20String%20to%20Integer%20-atoi/solution.h
