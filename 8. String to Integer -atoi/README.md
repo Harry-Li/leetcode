@@ -2,7 +2,7 @@
 ### 题目要求：
 Implement atoi to convert a string to an integer.
 ### 我的思路：
-这题比较无聊。。
+这题比较无聊。。考虑正负号，空格等，而且不知道对于非格式化的字符串返回值应该是多少。
 ```c
 	int myAtoi(string str) {
 		int len = str.length();
