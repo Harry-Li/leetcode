@@ -11,6 +11,7 @@
 |6|[ZigZag Conversion][6]|[6. ZigZag Conversion/solution.h][6s]|2017/5/15|Medium|
 |7|[Reverse Integer][7]|[7. Reverse Integer/solution.h][7s]|2017/5/15|Easy|
 |8|[String to Integer (atoi)][8]|[8. String to Integer (atoi)/solution.h][8s]|2017/5/16|Medium|
+|9|[Palindrome Number][9]|[9. Palindrome Number/solution.h][9s]|2017/5/16|Easy|
 
 [1]:https://leetcode.com/problems/two-sum/#/description
 [1s]:https://github.com/Harry-Li/leetcode/blob/master/1.%20Two%20Sum/solution.h
@@ -28,3 +29,5 @@
 [7s]:https://github.com/Harry-Li/leetcode/blob/master/7.%20Reverse%20Integer/solution.h
 [8]:https://leetcode.com/problems/string-to-integer-atoi/#/description
 [8s]:https://github.com/Harry-Li/leetcode/blob/master/8.%20String%20to%20Integer%20-atoi/solution.h
+[9]:https://leetcode.com/problems/palindrome-number/
+[9s]:https://github.com/Harry-Li/leetcode/blob/master/9.%20Palindrome%20Number/solution.h
