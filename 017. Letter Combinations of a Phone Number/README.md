@@ -4,13 +4,6 @@ Given a digit string, return all possible letter combinations that the number co
 ### 解法：
 可以使用[swap()函数](https://discuss.leetcode.com/topic/17262/iterative-c-solution-in-0ms)
 ```c
-#include<iostream>
-#include<string>
-#include<vector>
-using namespace std;
-
-class Solution {
-public:
 	vector<string> letterCombinations(string digits) {
 		int len = digits.length();
 		vector<string> ret;
@@ -28,5 +21,4 @@ public:
 		}
 		return ret;
 	}
-};
 ```
