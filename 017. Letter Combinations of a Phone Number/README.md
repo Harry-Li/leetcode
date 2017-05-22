@@ -1,5 +1,4 @@
 ## [017. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/#/description)
-对比一下[001. Two Sum](https://github.com/Harry-Li/leetcode/tree/master/001.%20Two%20Sum)
 ### 题目要求：
 Given a digit string, return all possible letter combinations that the number could represent.
 ### 解法：
