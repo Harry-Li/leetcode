@@ -21,6 +21,7 @@
 |17|[Letter Combinations of a Phone Number][17]|[17. Letter Combinations of a Phone Number/solution.h][17s]|2017/5/22|Medium|
 |18|[4Sum][18]|[18. 4Sum/solution.h][18s]|2017/5/23|Medium|
 |19|[Remove Nth Node From End of List][19]|[19. Remove Nth Node From End of List/solution.h][19s]|2017/5/23|Medium|
+|20|[Valid Parentheses][20]|[20. Valid Parentheses/solution.h][20s]|2017/5/23|Easy|
 
 [1]:https://leetcode.com/problems/two-sum/#/description
 [1s]:https://github.com/Harry-Li/leetcode/blob/master/001.%20Two%20Sum
@@ -58,3 +59,5 @@
 [18s]:https://github.com/Harry-Li/leetcode/tree/master/018.%204Sum
 [19]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description
 [19s]:https://github.com/Harry-Li/leetcode/tree/master/019.%20Remove%20Nth%20Node%20From%20End%20of%20List
+[20]:https://leetcode.com/problems/valid-parentheses/#/description
+[20s]:https://github.com/Harry-Li/leetcode/tree/master/020.%20Valid%20Parentheses
