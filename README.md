@@ -23,6 +23,7 @@
 |19|[Remove Nth Node From End of List][19]|[19. Remove Nth Node From End of List/solution.h][19s]|2017/5/23|Medium|
 |20|[Valid Parentheses][20]|[20. Valid Parentheses/solution.h][20s]|2017/5/23|Easy|
 |21|[Merge Two Sorted Lists][21]|[21. Merge Two Sorted Lists][21s]|2017/5/24|Easy|
+|22|[Generate Parentheses][22]|[22. Generate Parentheses][22s]|2017/5/25|Medium|
 
 [1]:https://leetcode.com/problems/two-sum/#/description
 [1s]:https://github.com/Harry-Li/leetcode/blob/master/001.%20Two%20Sum
@@ -64,3 +65,5 @@
 [20s]:https://github.com/Harry-Li/leetcode/tree/master/020.%20Valid%20Parentheses
 [21]:https://leetcode.com/problems/merge-two-sorted-lists/#/description
 [21s]:https://github.com/Harry-Li/leetcode/tree/master/021.%20Merge%20Two%20Sorted%20Lists
+[22]:https://leetcode.com/problems/generate-parentheses/#/description
+[22s]:https://github.com/Harry-Li/leetcode/tree/master/022.%20Generate%20Parentheses
