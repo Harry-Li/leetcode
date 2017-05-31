@@ -25,7 +25,10 @@
 |21|[Merge Two Sorted Lists][21]|[21. Merge Two Sorted Lists/solution.h][21s]|2017/5/24|Easy|
 |22|[Generate Parentheses][22]|[22. Generate Parentheses/solution.h][22s]|2017/5/25|Medium|
 |23|[Merge k Sorted Lists][23]|[23. Merge k Sorted Lists/solution.h][23s]|2017/5/31|Hard|
+|24|[Swap Nodes in Pairs][24]|[24. Swap Nodes in Pairs/solution.h][24s]|2017/5/31|Medium|
 
+[24]:https://leetcode.com/problems/swap-nodes-in-pairs/#/description
+[24s]:https://github.com/Harry-Li/leetcode/tree/master/024.%20Swap%20Nodes%20in%20Pairs
 [23]:https://leetcode.com/problems/merge-k-sorted-lists/#/description
 [23s]:https://github.com/Harry-Li/leetcode/tree/master/023.%20Merge%20k%20Sorted%20Lists
 [1]:https://leetcode.com/problems/two-sum/#/description
