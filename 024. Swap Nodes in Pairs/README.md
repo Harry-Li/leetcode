@@ -44,7 +44,7 @@ Your algorithm should use only constant space. You may not modify the values in 
     }
 ```
 ### 方法三：
-不是很好理解，解释[by zachluna](https://discuss.leetcode.com/topic/18860/7-8-lines-c-python-ruby/12)
+不是很好理解，解释[by zachluna](https://discuss.leetcode.com/topic/18860/7-8-lines-c-python-ruby/15)
 ```c
 	ListNode* swapPairs(ListNode* head) {
 		ListNode **pp = &head, *a, *b;
