@@ -26,7 +26,10 @@
 |22|[Generate Parentheses][22]|[22. Generate Parentheses/solution.h][22s]|2017/5/25|Medium|
 |23|[Merge k Sorted Lists][23]|[23. Merge k Sorted Lists/solution.h][23s]|2017/5/31|Hard|
 |24|[Swap Nodes in Pairs][24]|[24. Swap Nodes in Pairs/solution.h][24s]|2017/5/31|Medium|
+|25|[Reverse Nodes in k-Group][25]|[25. Reverse Nodes in k-Group/solution.h][25s]|2017/5/31|Hard|
 
+[25]:https://leetcode.com/problems/reverse-nodes-in-k-group/#/description
+[25s]:https://github.com/Harry-Li/leetcode/tree/master/025.%20Reverse%20Nodes%20in%20k-Group
 [24]:https://leetcode.com/problems/swap-nodes-in-pairs/#/description
 [24s]:https://github.com/Harry-Li/leetcode/tree/master/024.%20Swap%20Nodes%20in%20Pairs
 [23]:https://leetcode.com/problems/merge-k-sorted-lists/#/description
