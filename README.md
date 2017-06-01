@@ -29,7 +29,10 @@
 |25|[Reverse Nodes in k-Group][25]|[25. Reverse Nodes in k-Group/solution.h][25s]|2017/5/31|Hard|
 |26|[Remove Duplicates from Sorted Array][26]|[26. Remove Duplicates from Sorted Array/solution.h][26s]|2017/6/1|Easy|
 |27|[Remove Element][27]|[27. Remove Element/solution.h][27s]|2017/6/1|Easy|
+|28|[Implement strStr()][28]|[28. Implement strStr()][28s]|2017/6/1|Easy|
 
+[28]:https://leetcode.com/problems/implement-strstr/#/description
+[28s]:https://github.com/Harry-Li/leetcode/tree/master/028.%20Implement%20strStr
 [27]:https://leetcode.com/problems/remove-element/#/description
 [27s]:https://github.com/Harry-Li/leetcode/tree/master/027.%20Remove%20Element
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description
