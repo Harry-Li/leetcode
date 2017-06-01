@@ -27,7 +27,13 @@
 |23|[Merge k Sorted Lists][23]|[23. Merge k Sorted Lists/solution.h][23s]|2017/5/31|Hard|
 |24|[Swap Nodes in Pairs][24]|[24. Swap Nodes in Pairs/solution.h][24s]|2017/5/31|Medium|
 |25|[Reverse Nodes in k-Group][25]|[25. Reverse Nodes in k-Group/solution.h][25s]|2017/5/31|Hard|
+|26|[Remove Duplicates from Sorted Array][26]|[26. Remove Duplicates from Sorted Array/solution.h][26s]|2017/6/1|Easy|
+|27|[Remove Element][27]|[27. Remove Element/solution.h][27s]|2017/6/1|Easy|
 
+[27]:https://leetcode.com/problems/remove-element/#/description
+[27s]:https://github.com/Harry-Li/leetcode/tree/master/027.%20Remove%20Element
+[26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description
+[26s]:https://github.com/Harry-Li/leetcode/tree/master/026.%20Remove%20Duplicates%20from%20Sorted%20Array
 [25]:https://leetcode.com/problems/reverse-nodes-in-k-group/#/description
 [25s]:https://github.com/Harry-Li/leetcode/tree/master/025.%20Reverse%20Nodes%20in%20k-Group
 [24]:https://leetcode.com/problems/swap-nodes-in-pairs/#/description
