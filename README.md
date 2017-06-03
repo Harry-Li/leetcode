@@ -32,7 +32,10 @@
 |28|[Implement strStr()][28]|[28. Implement strStr()][28s]|2017/6/1|Easy|
 |29|[Divide Two Integers][29]|[29. Divide Two Integers][29s]|2017/6/1|Medium|
 |31|[Next Permutation][31]|[31. Next Permutation][31s]|2017/6/3|Medium|
+|33|[Search in Rotated Sorted Array][33]|[33. Search in Rotated Sorted Array][33s]|2017/6/3|Medium|
 
+[33]:https://leetcode.com/problems/search-in-rotated-sorted-array/#/description
+[33s]:https://github.com/Harry-Li/leetcode/tree/master/033.%20Search%20in%20Rotated%20Sorted%20Array
 [31]:https://leetcode.com/problems/next-permutation/#/description
 [31s]:https://github.com/Harry-Li/leetcode/tree/master/031.%20Next%20Permutation
 [29]:https://leetcode.com/problems/divide-two-integers/#/description
