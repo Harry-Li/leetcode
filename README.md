@@ -31,7 +31,10 @@
 |27|[Remove Element][27]|[27. Remove Element/solution.h][27s]|2017/6/1|Easy|
 |28|[Implement strStr()][28]|[28. Implement strStr()][28s]|2017/6/1|Easy|
 |29|[Divide Two Integers][29]|[29. Divide Two Integers][29s]|2017/6/1|Medium|
+|31|[Next Permutation][31]|[31. Next Permutation][31s]|2017/6/3|Medium|
 
+[31]:https://leetcode.com/problems/next-permutation/#/description
+[31s]:https://github.com/Harry-Li/leetcode/tree/master/031.%20Next%20Permutation
 [29]:https://leetcode.com/problems/divide-two-integers/#/description
 [29s]:https://github.com/Harry-Li/leetcode/tree/master/029.%20Divide%20Two%20Integers
 [28]:https://leetcode.com/problems/implement-strstr/#/description
