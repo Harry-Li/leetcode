@@ -29,12 +29,15 @@
 |25|[Reverse Nodes in k-Group][25]|[25. Reverse Nodes in k-Group/solution.h][25s]|2017/5/31|Hard|
 |26|[Remove Duplicates from Sorted Array][26]|[26. Remove Duplicates from Sorted Array/solution.h][26s]|2017/6/1|Easy|
 |27|[Remove Element][27]|[27. Remove Element/solution.h][27s]|2017/6/1|Easy|
-|28|[Implement strStr()][28]|[28. Implement strStr()][28s]|2017/6/1|Easy|
-|29|[Divide Two Integers][29]|[29. Divide Two Integers][29s]|2017/6/1|Medium|
-|31|[Next Permutation][31]|[31. Next Permutation][31s]|2017/6/3|Medium|
-|33|[Search in Rotated Sorted Array][33]|[33. Search in Rotated Sorted Array][33s]|2017/6/3|Medium|
-|34|[Search for a Range][34]|[34. Search for a Range][34s]|2017/6/4|Medium|
+|28|[Implement strStr()][28]|[28. Implement strStr()/solution.h][28s]|2017/6/1|Easy|
+|29|[Divide Two Integers][29]|[29. Divide Two Integers/solution.h][29s]|2017/6/1|Medium|
+|31|[Next Permutation][31]|[31. Next Permutation/solution.h][31s]|2017/6/3|Medium|
+|33|[Search in Rotated Sorted Array][33]|[33. Search in Rotated Sorted Array/solution.h][33s]|2017/6/3|Medium|
+|34|[Search for a Range][34]|[34. Search for a Range/solution.h][34s]|2017/6/4|Medium|
+|35|[Search Insert Position][35]|[35. Search Insert Position/solution.h][35s]|2017/6/4|Easy|
 
+[35]:https://leetcode.com/problems/search-insert-position/#/description
+[35s]:https://github.com/Harry-Li/leetcode/tree/master/035.%20Search%20Insert%20Position
 [34]:https://leetcode.com/problems/search-for-a-range/#/description
 [34s]:https://github.com/Harry-Li/leetcode/tree/master/034.%20Search%20for%20a%20Range
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/#/description
