@@ -33,7 +33,10 @@
 |29|[Divide Two Integers][29]|[29. Divide Two Integers][29s]|2017/6/1|Medium|
 |31|[Next Permutation][31]|[31. Next Permutation][31s]|2017/6/3|Medium|
 |33|[Search in Rotated Sorted Array][33]|[33. Search in Rotated Sorted Array][33s]|2017/6/3|Medium|
+|34|[Search for a Range][34]|[34. Search for a Range][34s]|2017/6/4|Medium|
 
+[34]:https://leetcode.com/problems/search-for-a-range/#/description
+[34s]:https://github.com/Harry-Li/leetcode/tree/master/034.%20Search%20for%20a%20Range
 [33]:https://leetcode.com/problems/search-in-rotated-sorted-array/#/description
 [33s]:https://github.com/Harry-Li/leetcode/tree/master/033.%20Search%20in%20Rotated%20Sorted%20Array
 [31]:https://leetcode.com/problems/next-permutation/#/description
