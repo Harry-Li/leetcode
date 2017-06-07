@@ -36,7 +36,10 @@
 |34|[Search for a Range][34]|[34. Search for a Range/solution.h][34s]|2017/6/4|Medium|
 |35|[Search Insert Position][35]|[35. Search Insert Position/solution.h][35s]|2017/6/4|Easy|
 |36|[Valid Sudoku][36]|[36. Valid Sudoku/solution.h][36s]|2017/6/4|Medium|
+|38|[Count and Say][38]|[38. Count and Say/solution.h][38s]|2017/6/7|Easy|
 
+[38]:https://leetcode.com/problems/count-and-say/#/description
+[38s]:https://github.com/Harry-Li/leetcode/tree/master/038.%20Count%20and%20Say
 [36]:https://leetcode.com/problems/valid-sudoku/#/description
 [36s]:https://github.com/Harry-Li/leetcode/tree/master/036.%20Valid%20Sudoku
 [35]:https://leetcode.com/problems/search-insert-position/#/description
