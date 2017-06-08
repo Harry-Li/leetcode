@@ -37,7 +37,10 @@
 |35|[Search Insert Position][35]|[35. Search Insert Position/solution.h][35s]|2017/6/4|Easy|
 |36|[Valid Sudoku][36]|[36. Valid Sudoku/solution.h][36s]|2017/6/4|Medium|
 |38|[Count and Say][38]|[38. Count and Say/solution.h][38s]|2017/6/7|Easy|
+|39|[Combination Sum][39]|[39. Combination Sum/solution.h][39s]|2017/6/8|Medium|
 
+[39]:https://leetcode.com/problems/combination-sum/#/description
+[39s]:https://github.com/Harry-Li/leetcode/tree/master/039.%20Combination%20Sum
 [38]:https://leetcode.com/problems/count-and-say/#/description
 [38s]:https://github.com/Harry-Li/leetcode/tree/master/038.%20Count%20and%20Say
 [36]:https://leetcode.com/problems/valid-sudoku/#/description
