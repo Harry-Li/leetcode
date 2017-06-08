@@ -4,7 +4,7 @@ Given a set of candidate numbers (C) (without duplicates) and a target number (T
 
 The same repeated number may be chosen from C unlimited number of times.
 ### 解法一：
-迭代
+[回溯](https://discuss.leetcode.com/topic/14654/accepted-16ms-c-solution-use-backtracking-easy-understand)
 ```c
 	vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
 		sort(candidates.begin(), candidates.end());
@@ -26,7 +26,7 @@ The same repeated number may be chosen from C unlimited number of times.
 	}
 ```
 ### 解法二：
-动态规划
+[动态规划](https://discuss.leetcode.com/topic/41090/my-easy-understanding-dp-solution-c)
 ```c
 	vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
 		//vector<vector<int>> result;
