@@ -38,7 +38,10 @@
 |36|[Valid Sudoku][36]|[36. Valid Sudoku/solution.h][36s]|2017/6/4|Medium|
 |38|[Count and Say][38]|[38. Count and Say/solution.h][38s]|2017/6/7|Easy|
 |39|[Combination Sum][39]|[39. Combination Sum/solution.h][39s]|2017/6/8|Medium|
+|40|[Combination Sum II][40]|[40. Combination Sum II/solution.h][40s]|2017/6/11|Medium|
 
+[40]:https://leetcode.com/problems/combination-sum-ii/#/description
+[40s]:https://github.com/Harry-Li/leetcode/tree/master/040.%20Combination%20Sum%20II
 [39]:https://leetcode.com/problems/combination-sum/#/description
 [39s]:https://github.com/Harry-Li/leetcode/tree/master/039.%20Combination%20Sum
 [38]:https://leetcode.com/problems/count-and-say/#/description
