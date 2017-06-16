@@ -39,7 +39,10 @@
 |38|[Count and Say][38]|[38. Count and Say/solution.h][38s]|2017/6/7|Easy|
 |39|[Combination Sum][39]|[39. Combination Sum/solution.h][39s]|2017/6/8|Medium|
 |40|[Combination Sum II][40]|[40. Combination Sum II/solution.h][40s]|2017/6/11|Medium|
+|268|[Missing Number][268]|[268. Missing Number/solution.h][268s]|2017/6/16|Easy|
 
+[268]:https://leetcode.com/problems/missing-number/#/description
+[268s]:https://github.com/Harry-Li/leetcode/tree/master/268.%20Missing%20Number
 [40]:https://leetcode.com/problems/combination-sum-ii/#/description
 [40s]:https://github.com/Harry-Li/leetcode/tree/master/040.%20Combination%20Sum%20II
 [39]:https://leetcode.com/problems/combination-sum/#/description
