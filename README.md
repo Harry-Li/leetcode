@@ -42,7 +42,13 @@
 |268|[Missing Number][268]|[268. Missing Number/solution.h][268s]|2017/6/16|Easy|
 |41|[First Missing Positive][41]|[41. First Missing Positive/solution.h][41s]|2017/6/16|Hard|
 |42|[Trapping Rain Water][42]|[042. Trapping Rain Water/solution.h][42s]|2017/6/16|Hard|
+|43|[Multiply Strings][43]|[043. Multiply Strings/solution.h][43s]|2017/6/21|Medium|
+|46|[Permutations][46]|[046. Permutations/solution.h][46s]|2017/6/21|Medium|
 
+[46]:https://leetcode.com/problems/permutations/#/description
+[46s]:https://github.com/Harry-Li/leetcode/tree/master/046.%20Permutations
+[43]:https://leetcode.com/problems/multiply-strings/#/description
+[43s]:https://github.com/Harry-Li/leetcode/tree/master/043.%20Multiply%20Strings
 [42]:https://leetcode.com/problems/trapping-rain-water/#/description
 [42s]:https://github.com/Harry-Li/leetcode/tree/master/042.%20Trapping%20Rain%20Water
 [41]:https://leetcode.com/problems/first-missing-positive/#/description
