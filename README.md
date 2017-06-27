@@ -45,7 +45,10 @@
 |43|[Multiply Strings][43]|[043. Multiply Strings/solution.h][43s]|2017/6/21|Medium|
 |46|[Permutations][46]|[046. Permutations/solution.h][46s]|2017/6/21|Medium|
 |47|[Permutations II][47]|[047. Permutations II/solution.h][47s]|2017/6/23|Medium|
+|48|[Rotate Image][48]|[048. Rotate Image/solution.h][48s]|2017/6/27|Medium|
 
+[48]:https://leetcode.com/problems/rotate-image/#/description
+[48s]:https://github.com/Harry-Li/leetcode/tree/master/048.%20Rotate%20Image
 [47]:https://leetcode.com/problems/permutations-ii/#/description
 [47s]:https://github.com/Harry-Li/leetcode/tree/master/047.%20Permutations%20II
 [46]:https://leetcode.com/problems/permutations/#/description
