@@ -46,7 +46,13 @@
 |46|[Permutations][46]|[046. Permutations/solution.h][46s]|2017/6/21|Medium|
 |47|[Permutations II][47]|[047. Permutations II/solution.h][47s]|2017/6/23|Medium|
 |48|[Rotate Image][48]|[048. Rotate Image/solution.h][48s]|2017/6/27|Medium|
+|49|[Rotate Image][49]|[049. Group Anagrams/solution.h][49s]|2017/6/30|Medium|
+|50|[Rotate Image][50]|[050. Pow(x, n)/solution.h][50s]|2017/6/30|Medium|
 
+[50]:https://leetcode.com/problems/powx-n/#/description
+[50s]:https://github.com/Harry-Li/leetcode/tree/master/050.%20Pow-x-%20n
+[49]:https://leetcode.com/problems/group-anagrams/#/description
+[49s]:https://github.com/Harry-Li/leetcode/tree/master/049.%20Group%20Anagrams
 [48]:https://leetcode.com/problems/rotate-image/#/description
 [48s]:https://github.com/Harry-Li/leetcode/tree/master/048.%20Rotate%20Image
 [47]:https://leetcode.com/problems/permutations-ii/#/description
