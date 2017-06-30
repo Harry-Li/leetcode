@@ -9,6 +9,6 @@ public:
 		if (n == 1) return x;
 		//double x2 = myPow(x, n >> 1);
 		//return x2*x2*myPow(x, n % 2);
-    return myPow(x*x,n>>1)*myPow(x,n%2);
+		return myPow(x*x,n>>1)*myPow(x,n%2);
 	}
 };
