@@ -48,7 +48,10 @@
 |48|[Rotate Image][48]|[048. Rotate Image/solution.h][48s]|2017/6/27|Medium|
 |49|[Group Anagrams][49]|[049. Group Anagrams/solution.h][49s]|2017/6/30|Medium|
 |50|[Pow(x, n)][50]|[050. Pow(x, n)/solution.h][50s]|2017/6/30|Medium|
+|51|[N-Queens][51]|[051. N-Queens/solution.h][51s]|2017/7/4|Hard|
 
+[51]:https://leetcode.com/problems/n-queens/#/description
+[51s]:https://github.com/Harry-Li/leetcode/tree/master/051.%20N-Queens
 [50]:https://leetcode.com/problems/powx-n/#/description
 [50s]:https://github.com/Harry-Li/leetcode/tree/master/050.%20Pow-x-%20n
 [49]:https://leetcode.com/problems/group-anagrams/#/description
