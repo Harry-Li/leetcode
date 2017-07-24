@@ -50,7 +50,13 @@
 |50|[Pow(x, n)][50]|[050. Pow(x, n)/solution.h][50s]|2017/6/30|Medium|
 |51|[N-Queens][51]|[051. N-Queens/solution.h][51s]|2017/7/4|Hard|
 |52|[N-Queens II][52]|[052. N-Queens II/solution.h][52s]|2017/7/6|Hard|
+|53|[Maximum Subarray  ][53]|[053. Maximum Subarray/solution.h][53s]|2017/7/24|Easy|
+|54|[Spiral Matrix][54]|[054. Spiral Matrix/solution.h][54s]|2017/7/24|Medium|
 
+[54]:https://leetcode.com/problems/spiral-matrix/#/description
+[54s]:https://github.com/Harry-Li/leetcode/tree/master/054.%20Spiral%20Matrix
+[53]:https://leetcode.com/problems/maximum-subarray/#/description
+[53s]:https://github.com/Harry-Li/leetcode/tree/master/053.%20Maximum%20Subarray
 [52]:https://leetcode.com/problems/n-queens-ii/#/description
 [52s]:https://github.com/Harry-Li/leetcode/tree/master/052.%20N-Queens%20II
 [51]:https://leetcode.com/problems/n-queens/#/description
