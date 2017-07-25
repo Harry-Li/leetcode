@@ -52,7 +52,13 @@
 |52|[N-Queens II][52]|[052. N-Queens II/solution.h][52s]|2017/7/6|Hard|
 |53|[Maximum Subarray  ][53]|[053. Maximum Subarray/solution.h][53s]|2017/7/24|Easy|
 |54|[Spiral Matrix][54]|[054. Spiral Matrix/solution.h][54s]|2017/7/24|Medium|
+|55|[Jump Game][55]|[055. Jump Game/solution.h][55s]|2017/7/25|Medium|
+|45|[Jump Game II][45]|[045. Jump Game II/solution.h][45s]|2017/7/25|Hard|
 
+[45]:https://leetcode.com/problems/jump-game-ii/#/description
+[45s]:https://github.com/Harry-Li/leetcode/tree/master/045.%20Jump%20Game%20II
+[55]:https://leetcode.com/problems/jump-game/#/description
+[55s]:https://github.com/Harry-Li/leetcode/tree/master/055.%20Jump%20Game
 [54]:https://leetcode.com/problems/spiral-matrix/#/description
 [54s]:https://github.com/Harry-Li/leetcode/tree/master/054.%20Spiral%20Matrix
 [53]:https://leetcode.com/problems/maximum-subarray/#/description
