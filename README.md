@@ -54,7 +54,11 @@
 |54|[Spiral Matrix][54]|[054. Spiral Matrix/solution.h][54s]|2017/7/24|Medium|
 |55|[Jump Game][55]|[055. Jump Game/solution.h][55s]|2017/7/25|Medium|
 |45|[Jump Game II][45]|[045. Jump Game II/solution.h][45s]|2017/7/25|Hard|
+|56|[Merge Intervals][56]|[056. Merge Intervals/solution.h][56s]|2017/7/25|Medium|
 
+
+[56]:https://leetcode.com/problems/merge-intervals/#/description
+[56s]:https://github.com/Harry-Li/leetcode/tree/master/056.%20Merge%20Intervals
 [45]:https://leetcode.com/problems/jump-game-ii/#/description
 [45s]:https://github.com/Harry-Li/leetcode/tree/master/045.%20Jump%20Game%20II
 [55]:https://leetcode.com/problems/jump-game/#/description
