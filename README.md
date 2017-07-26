@@ -55,8 +55,16 @@
 |55|[Jump Game][55]|[055. Jump Game/solution.h][55s]|2017/7/25|Medium|
 |45|[Jump Game II][45]|[045. Jump Game II/solution.h][45s]|2017/7/25|Hard|
 |56|[Merge Intervals][56]|[056. Merge Intervals/solution.h][56s]|2017/7/25|Medium|
+|57|[Insert Interval][57]|[057. Insert Interval/solution.h][57s]|2017/7/26|Hard|
+|58|[Length of Last Word][58]|[058. Length of Last Word/solution.h][58s]|2017/7/26|Easy|
+|59|[Spiral Matrix II][59]|[059. Spiral Matrix II/solution.h][59s]|2017/7/26|Medium|
 
-
+[59]:https://leetcode.com/problems/spiral-matrix-ii/#/description
+[59s]:https://github.com/Harry-Li/leetcode/tree/master/059.%20Spiral%20Matrix%20II
+[58]:https://leetcode.com/problems/length-of-last-word/#/description
+[58s]:https://github.com/Harry-Li/leetcode/tree/master/058.%20Length%20of%20Last%20Word
+[57]:https://leetcode.com/problems/insert-interval/#/description
+[57s]:https://github.com/Harry-Li/leetcode/tree/master/057.%20Insert%20Interval
 [56]:https://leetcode.com/problems/merge-intervals/#/description
 [56s]:https://github.com/Harry-Li/leetcode/tree/master/056.%20Merge%20Intervals
 [45]:https://leetcode.com/problems/jump-game-ii/#/description
