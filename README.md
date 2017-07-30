@@ -59,7 +59,10 @@
 |58|[Length of Last Word][58]|[058. Length of Last Word/solution.h][58s]|2017/7/26|Easy|
 |59|[Spiral Matrix II][59]|[059. Spiral Matrix II/solution.h][59s]|2017/7/26|Medium|
 |60|[Permutation Sequence][60]|[060. Permutation Sequence/solution.h][60s]|2017/7/27|Medium|
+|62|[Unique Paths][62]|[062. Unique Paths/solution.h][62s]|2017/7/30|Medium|
 
+[62]:https://leetcode.com/problems/unique-paths/description/
+[62s]:https://github.com/Harry-Li/leetcode/tree/master/062.%20Unique%20Paths
 [60]:https://leetcode.com/problems/permutation-sequence/tabs/description
 [60s]:https://github.com/Harry-Li/leetcode/tree/master/060.%20Permutation%20Sequence
 [59]:https://leetcode.com/problems/spiral-matrix-ii/#/description
