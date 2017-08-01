@@ -61,7 +61,13 @@
 |60|[Permutation Sequence][60]|[060. Permutation Sequence/solution.h][60s]|2017/7/27|Medium|
 |62|[Unique Paths][62]|[062. Unique Paths/solution.h][62s]|2017/7/30|Medium|
 |63|[Unique Paths II][63]|[063. Unique Paths II/solution.h][63s]|2017/7/31|Medium|
+|64|[Minimum Path Sum][64]|[064. Minimum Path Sum/solution.h][64s]|2017/8/1|Medium|
+|70|[Climbing Stairs][70]|[070. Climbing Stairs/solution.h][70s]|2017/8/1|Medium|
 
+[70]:https://leetcode.com/problems/climbing-stairs/description/
+[70s]:https://github.com/Harry-Li/leetcode/tree/master/070.%20Climbing%20Stairs
+[64]:https://leetcode.com/problems/minimum-path-sum/description/
+[64s]:https://github.com/Harry-Li/leetcode/tree/master/064.%20Minimum%20Path%20Sum
 [63]:https://leetcode.com/problems/unique-paths-ii/description/
 [63s]:https://github.com/Harry-Li/leetcode/tree/master/063.%20Unique%20Paths%20II
 [62]:https://leetcode.com/problems/unique-paths/description/
